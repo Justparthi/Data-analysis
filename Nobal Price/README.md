@@ -1,4 +1,4 @@
-## Data Analysis of Nobel Prize Research
+# Data Analysis of Nobel Prize Research
 
 This repository contains Python scripts for analyzing data related to Nobel Prize winners and their research. The analysis is based on publicly available data and utilizes Python's powerful data analysis libraries.
 
