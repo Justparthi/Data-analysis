@@ -1,4 +1,4 @@
-## Data Analysis of Salaries by College Major
+# Data Analysis of Salaries by College Major
 
 This repository contains Python scripts for analyzing data on salaries by college major. The analysis is based on publicly available data and uses Python's powerful data analysis libraries.
 
