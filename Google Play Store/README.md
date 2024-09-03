@@ -1,4 +1,4 @@
-## Data Analysis of Google Play Store Apps
+# Data Analysis of Google Play Store Apps
 
 This repository contains Python scripts for analyzing data related to apps on the Google Play Store. The analysis is based on publicly available data and uses Python's powerful data analysis libraries.
 
