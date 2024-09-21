@@ -2,6 +2,13 @@
 
 This repository contains Python scripts for analyzing data related to Nobel Prize winners and their research. The analysis is based on publicly available data and utilizes Python's powerful data analysis libraries.
 
+
+### Running the Analysis
+
+You can run the analysis using Python locally or via a Jupyter notebook. Alternatively, you can try out the code directly in a Google Colab notebook:
+
+- **Google Colab Notebook**: [Interactive Analysis Example](https://colab.research.google.com/drive/1nXL94XnYAC_eJRGBH4Qy_jYgbAGv7CaG#scrollTo=3uN3wN5sIqvH)
+
 ### Libraries Used
 
 #### 1. Pandas
@@ -35,11 +42,6 @@ The analysis is based on data related to Nobel Prize winners and their research,
 
 - **Download Example Data**: [Nobel Prize Data](#) *(Insert the link to your data source)*
 
-### Running the Analysis
-
-You can run the analysis using Python locally or via a Jupyter notebook. Alternatively, you can try out the code directly in a Google Colab notebook:
-
-- **Google Colab Notebook**: [Interactive Analysis Example](https://colab.research.google.com/drive/1nXL94XnYAC_eJRGBH4Qy_jYgbAGv7CaG)
 
 
 
