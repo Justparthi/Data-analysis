@@ -2,6 +2,13 @@
 
 This repository contains Python scripts for analyzing data related to apps on the Google Play Store. The analysis is based on publicly available data and uses Python's powerful data analysis libraries.
 
+
+### Running the Analysis
+
+You can run the analysis using Python locally or via a Jupyter notebook. Alternatively, you can try out the code directly in a Google Colab notebook:
+
+- **Google Colab Notebook**: [Interactive Analysis Example](https://colab.research.google.com/drive/1Wl8LEh6x4J9vjln4T9Y8n2gA027xms9o#scrollTo=W1iVoT8Dos7x)
+
 ### Libraries Used
 
 #### 1. Pandas
@@ -35,11 +42,6 @@ The analysis is based on data related to Google Play Store apps, which can be so
 
 - **Download Example Data**: [Google Play Store Apps Data](#) *(Insert the link to your data source)*
 
-### Running the Analysis
-
-You can run the analysis using Python locally or via a Jupyter notebook. Alternatively, you can try out the code directly in a Google Colab notebook:
-
-- **Google Colab Notebook**: [Interactive Analysis Example](https://colab.research.google.com/drive/1Wl8LEh6x4J9vjln4T9Y8n2gA027xms9o#scrollTo=AdBr0TUhouqs)
 
 
 
